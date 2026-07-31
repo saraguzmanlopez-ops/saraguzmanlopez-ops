@@ -30,6 +30,6 @@ Analista de Datos e IA con el superpoder del Diseño Gráfico.
 
 | Proyecto | Tecnologías | Descripción |
 | :--- | :--- | :--- |
-| [Optimización de Talento y Retención](https://github.com/saraguzmanlopez-ops/spain-business-resilience-analytics)-) |Pipeline ETL con Python · MySQL · GitHub · Power BI | Creación de un modelo de datos y dashboard en Power BI para evaluar la supervivencia y salud financiera de comercios usando la API del INE. |
+| [spain-business-resilience-analytics](https://github.com/saraguzmanlopez-ops/spain-business-resilience-analytics)-) |Pipeline ETL con Python · MySQL · GitHub · Power BI | Creación de un modelo de datos y dashboard en Power BI para evaluar la supervivencia y salud financiera de comercios usando la API del INE. |
 | [Comparativa de Audiencias y estrategias entre Big Bang Theory y Friends](https://github.com/saraguzmanlopez-ops/Friends-Vs-Big-Bang-Theory) | Python (Pandas, NumPy) · Jupyter Notebook · Power BI  | Este proyecto analizar las audiencias y comparar las audiencias de las series 'Friends' y 'Big Bang Theory'. |
 | [Juego Harry Potter  ](https://github.com/saraguzmanlopez-ops/Juego-Harry-Potter) | Python (Pandas, BeautifulSoup) · IA  · Jupyter · Notebook | Este proyecto es un divertido juego desarrollado en Python en el que a traves de hechizos puedes competir o bien con la maquina o bien entre varios concursantes |
